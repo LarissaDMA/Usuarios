@@ -37,7 +37,7 @@ let usuarios = [
         senha: "1234"
     },
     {
-        nome: "joao@gmail.com",
+        nome: "Thiago@gmail.com",
         senha: "1234"
     },
     {
